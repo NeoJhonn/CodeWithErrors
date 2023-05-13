@@ -1,9 +1,9 @@
 public class ErrorB {
 
     public static void main(String[] args) {
-        int var1 = 15;
+       int var1 = 15;
         int var2 = 5;
-        int var3 = 0
+        int var3 = 15;
         int ans1 = var1 / var2;
 
         int ans2 = var1 / var3;
